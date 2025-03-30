@@ -1,3 +1,5 @@
 JOGO NUMERO SECRETO
-autor: Claudio Marcos da Silva
-objetivo: aplicação de teste do curso de formação Java da Alura
+Este jogo tem a finalidade de entretar o usuário solicitando que ele adivinhe um numero qualquer entre 1 e 10.
+Linguage: javascript
+Autor: Claudio Silva
+Ano: 2025
