@@ -1,6 +1,6 @@
 
 let listaNumerosSorteados = [];
-let numeroMaximoAleatorio = 5;
+let numeroMaximoAleatorio = 10;
 let numeroTentativas = 1;
 
 
