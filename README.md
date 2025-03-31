@@ -3,3 +3,4 @@ Este jogo tem a finalidade de entretar o usuário solicitando que ele adivinhe u
 Linguagem: javascript
 Autor: Claudio Silva
 Ano: 2025
+mês: março
